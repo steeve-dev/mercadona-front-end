@@ -1,11 +1,11 @@
 import './App.css';
+import CatalogProduct from "./pages/CatalogProduct";
+
 
 function App() {
   return (
     <>
-    <div>
-      coucou c'est moi !
-    </div>
+      <CatalogProduct/>
     </>
   );
 }
